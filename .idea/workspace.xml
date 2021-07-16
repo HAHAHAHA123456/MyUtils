@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="442fa17a-028b-428b-bd7b-3155981e37d5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyUtils$LetouVector.coverage" NAME="LetouVector Coverage Results" MODIFIED="1608096134160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyUtils$StaticFunc.coverage" NAME="StaticFunc Coverage Results" MODIFIED="1596792443079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyUtils$LetouVectorV2.coverage" NAME="LetouVectorV2 Coverage Results" MODIFIED="1626098741037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyUtils$LetouVector_1109.coverage" NAME="LetouVector_1109 Coverage Results" MODIFIED="1605025475151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyUtils$greater.coverage" NAME="greater Coverage Results" MODIFIED="1600693887464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyUtils$TransferData_to_infoVector.coverage" NAME="TransferData_to_infoVector Coverage Results" MODIFIED="1604711128630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/TFRecord_Dir/np_to_tfrecords.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="1683">
+                    <caret line="72" column="33" lean-forward="true" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+                    <folding>
+                      <element signature="e#0#18#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LetouVector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1962">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LetouVectorV2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="1157" column="36" lean-forward="true" selection-start-line="1157" selection-start-column="36" selection-end-line="1157" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/core/example/example_pb2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="110" column="32" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda/Lib/site-packages/nltk/corpus/reader/comparative_sents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3280">
+              <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeTou_StaticVector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5544">
+              <caret line="168" column="30" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_tail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6864">
+              <caret line="208" column="30" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_remainder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1023">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_Odd_Even.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5544">
+              <caret line="168" column="30" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_Big_Small.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5676">
+              <caret line="172" column="30" selection-start-line="172" selection-start-column="30" selection-end-line="172" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TransferData_to_infoVector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9207">
+              <caret line="279" selection-start-line="279" selection-end-line="279" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>staticCounts_Continous_leaveOut</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/greater.py" />
+        <option value="$PROJECT_DIR$/TransferFunc.py" />
+        <option value="$PROJECT_DIR$/LSTMCommon.py" />
+        <option value="$PROJECT_DIR$/LSTMCommon4.py" />
+        <option value="$PROJECT_DIR$/LSTMCommon8.py" />
+        <option value="$PROJECT_DIR$/StaticVariable_StaticFunc.py" />
+        <option value="$PROJECT_DIR$/LetouVector_similar.py" />
+        <option value="$PROJECT_DIR$/TransferData_to_infoVector.py" />
+        <option value="$PROJECT_DIR$/LeTou_StaticFunc.py" />
+        <option value="$PROJECT_DIR$/LeTou_Blue_StaticFunc.py" />
+        <option value="$PROJECT_DIR$/LeTou_StaticVector_remainder.py" />
+        <option value="$PROJECT_DIR$/LeTou_StaticVector_tail.py" />
+        <option value="$PROJECT_DIR$/StaticFunc.py" />
+        <option value="$PROJECT_DIR$/LeTou_StaticVector_Big_Small.py" />
+        <option value="$PROJECT_DIR$/LeTou_StaticVector_Odd_Even.py" />
+        <option value="$PROJECT_DIR$/LeTou_StaticVector.py" />
+        <option value="$PROJECT_DIR$/LetouVectorTest.py" />
+        <option value="$PROJECT_DIR$/LetouVector.py" />
+        <option value="$PROJECT_DIR$/TFRecord_Dir/np_to_tfrecords.py" />
+        <option value="$PROJECT_DIR$/LetouVectorV2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyUtils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyUtils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyUtils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="TFRecord_Dir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyUtils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="TFRecord_lottery" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/PyProject/test01" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyUtils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MyUtils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.LetouVectorV2">
+    <configuration name="LetouVector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyUtils" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LetouVector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LetouVectorV2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyUtils" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LetouVectorV2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LetouVector_1109" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyUtils" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LetouVector_1109.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TransferData_to_infoVector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyUtils" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransferData_to_infoVector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="np_to_tfrecords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyUtils" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TFRecord_Dir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TFRecord_Dir/np_to_tfrecords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LetouVectorV2" />
+        <item itemvalue="Python.np_to_tfrecords" />
+        <item itemvalue="Python.LetouVector" />
+        <item itemvalue="Python.LetouVector_1109" />
+        <item itemvalue="Python.TransferData_to_infoVector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="442fa17a-028b-428b-bd7b-3155981e37d5" name="Default Changelist" comment="" />
+      <created>1595991731242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595991731242</updated>
+      <workItem from="1595991732477" duration="704000" />
+      <workItem from="1596723152067" duration="898000" />
+      <workItem from="1596725059350" duration="797000" />
+      <workItem from="1596792007037" duration="2883000" />
+      <workItem from="1596986700664" duration="625000" />
+      <workItem from="1597015169300" duration="610000" />
+      <workItem from="1597201434640" duration="599000" />
+      <workItem from="1597421131352" duration="598000" />
+      <workItem from="1597451093654" duration="2515000" />
+      <workItem from="1597650025174" duration="599000" />
+      <workItem from="1597832292426" duration="599000" />
+      <workItem from="1597880541291" duration="598000" />
+      <workItem from="1597963245956" duration="599000" />
+      <workItem from="1598074625202" duration="637000" />
+      <workItem from="1598265863967" duration="610000" />
+      <workItem from="1598429031803" duration="616000" />
+      <workItem from="1598598986175" duration="9622000" />
+      <workItem from="1598826339401" duration="599000" />
+      <workItem from="1599037316970" duration="599000" />
+      <workItem from="1599120015408" duration="612000" />
+      <workItem from="1599300284356" duration="1823000" />
+      <workItem from="1599427613104" duration="599000" />
+      <workItem from="1599647053651" duration="599000" />
+      <workItem from="1599814527605" duration="598000" />
+      <workItem from="1600060238112" duration="657000" />
+      <workItem from="1600177747536" duration="673000" />
+      <workItem from="1600389101189" duration="1289000" />
+      <workItem from="1600685403108" duration="3028000" />
+      <workItem from="1600727448850" duration="6519000" />
+      <workItem from="1600901155981" duration="1415000" />
+      <workItem from="1601159227614" duration="599000" />
+      <workItem from="1601246043176" duration="599000" />
+      <workItem from="1601327165414" duration="635000" />
+      <workItem from="1601563391300" duration="599000" />
+      <workItem from="1601939816944" duration="599000" />
+      <workItem from="1602028568938" duration="1206000" />
+      <workItem from="1602089088495" duration="1217000" />
+      <workItem from="1602199139351" duration="1859000" />
+      <workItem from="1602371193421" duration="1202000" />
+      <workItem from="1602946298781" duration="599000" />
+      <workItem from="1603117506603" duration="3507000" />
+      <workItem from="1603322010535" duration="1198000" />
+      <workItem from="1603748181876" duration="617000" />
+      <workItem from="1603933194122" duration="13479000" />
+      <workItem from="1604153905469" duration="1209000" />
+      <workItem from="1604269652926" duration="990000" />
+      <workItem from="1604317708650" duration="1237000" />
+      <workItem from="1604443673520" duration="5693000" />
+      <workItem from="1604535346515" duration="633000" />
+      <workItem from="1604624440425" duration="7182000" />
+      <workItem from="1604705226200" duration="7841000" />
+      <workItem from="1604789700673" duration="15850000" />
+      <workItem from="1604968995387" duration="11750000" />
+      <workItem from="1605227651927" duration="4604000" />
+      <workItem from="1605533118608" duration="1365000" />
+      <workItem from="1605569536943" duration="604000" />
+      <workItem from="1605655083009" duration="1763000" />
+      <workItem from="1605744292934" duration="635000" />
+      <workItem from="1606016299792" duration="1233000" />
+      <workItem from="1606189281835" duration="708000" />
+      <workItem from="1606258611267" duration="1207000" />
+      <workItem from="1606352708533" duration="889000" />
+      <workItem from="1606486729800" duration="3498000" />
+      <workItem from="1606571358920" duration="609000" />
+      <workItem from="1607133123539" duration="1890000" />
+      <workItem from="1607141688213" duration="630000" />
+      <workItem from="1607148212398" duration="1233000" />
+      <workItem from="1607180048363" duration="329000" />
+      <workItem from="1607217789573" duration="1240000" />
+      <workItem from="1607327648068" duration="895000" />
+      <workItem from="1607385773170" duration="739000" />
+      <workItem from="1607471933736" duration="6016000" />
+      <workItem from="1607555038167" duration="1213000" />
+      <workItem from="1607643290640" duration="3703000" />
+      <workItem from="1607661836241" duration="5929000" />
+      <workItem from="1607814384952" duration="608000" />
+      <workItem from="1607854812154" duration="599000" />
+      <workItem from="1607917210299" duration="604000" />
+      <workItem from="1608033183150" duration="1938000" />
+      <workItem from="1608115631405" duration="897000" />
+      <workItem from="1608168144709" duration="621000" />
+      <workItem from="1608205181590" duration="599000" />
+      <workItem from="1608247779353" duration="3115000" />
+      <workItem from="1608295360231" duration="599000" />
+      <workItem from="1608349960878" duration="606000" />
+      <workItem from="1608455972645" duration="1275000" />
+      <workItem from="1608504675960" duration="630000" />
+      <workItem from="1608624883025" duration="607000" />
+      <workItem from="1608686373869" duration="606000" />
+      <workItem from="1609038171965" duration="233000" />
+      <workItem from="1609128433464" duration="608000" />
+      <workItem from="1609162047202" duration="607000" />
+      <workItem from="1609300006346" duration="1201000" />
+      <workItem from="1609501747698" duration="599000" />
+      <workItem from="1609545785613" duration="1981000" />
+      <workItem from="1617068470832" duration="635000" />
+      <workItem from="1617103966901" duration="703000" />
+      <workItem from="1617319194779" duration="598000" />
+      <workItem from="1617367132532" duration="599000" />
+      <workItem from="1617597465511" duration="599000" />
+      <workItem from="1624882845715" duration="688000" />
+      <workItem from="1624967485116" duration="1898000" />
+      <workItem from="1625142939691" duration="599000" />
+      <workItem from="1625299885456" duration="1217000" />
+      <workItem from="1625352765929" duration="611000" />
+      <workItem from="1625572680571" duration="1207000" />
+      <workItem from="1625656940717" duration="1213000" />
+      <workItem from="1625875997139" duration="688000" />
+      <workItem from="1625999248561" duration="599000" />
+      <workItem from="1626095407545" duration="2229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17712177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4326087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LSTMCommon.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="print(array)" language="Python" />
+        <watch expression="print(array2)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>print(array2)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(array)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StaticVariable_StaticFunc.py" />
+    <entry file="file://$PROJECT_DIR$/LetouVector_1109.py" />
+    <entry file="file://$PROJECT_DIR$/TransferFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTMCommon8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeTou_Blue_StaticFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="68" column="76" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21330">
+          <caret line="790" column="22" selection-start-line="790" selection-start-column="22" selection-end-line="790" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeTou_StaticFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="57" selection-start-line="57" selection-end-line="71" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StaticFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="115" column="40" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LetouVectorTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTMCommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="574" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTMCommon4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18909">
+          <caret line="574" column="61" selection-start-line="574" selection-start-column="61" selection-end-line="574" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/lib/io/tf_record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7260">
+          <caret line="228" column="6" selection-start-line="228" selection-start-column="6" selection-end-line="228" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LetouVector_similar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24948">
+          <caret line="756" column="50" selection-start-line="756" selection-start-column="50" selection-end-line="756" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeTou_StaticVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="168" column="30" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_tail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6864">
+          <caret line="208" column="30" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_remainder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_Odd_Even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="168" column="30" selection-start-line="168" selection-start-column="30" selection-end-line="168" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeTou_StaticVector_Big_Small.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5676">
+          <caret line="172" column="30" selection-start-line="172" selection-start-column="30" selection-end-line="172" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TransferData_to_infoVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9207">
+          <caret line="279" selection-start-line="279" selection-end-line="279" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFRecord_Dir/test1.tfrecords">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFRecord_Dir/test2.tfrecords">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFRecord_Dir/np_to_tfrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="72" column="33" lean-forward="true" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFRecord_lottery/train.tfrecords">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LetouVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1962">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/nltk/corpus/reader/comparative_sents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3280">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/core/example/example_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="110" column="32" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LetouVectorV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="1157" column="36" lean-forward="true" selection-start-line="1157" selection-start-column="36" selection-end-line="1157" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
